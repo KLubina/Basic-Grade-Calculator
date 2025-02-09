@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{C4F9C40B-886F-44B3-9FAA-682E660E7569}|Basic-Grade-Calculator\\Basic-Grade-Calculator.csproj|solutionrelative:basic-grade-calculator\\classes\\program_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4F9C40B-886F-44B3-9FAA-682E660E7569}|Basic-Grade-Calculator\\Basic-Grade-Calculator.csproj|c:\\githubdesktop\\basic-grade-calculator\\basic-grade-calculator\\basic-grade-calculator\\forms\\create_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C4F9C40B-886F-44B3-9FAA-682E660E7569}|Basic-Grade-Calculator\\Basic-Grade-Calculator.csproj|C:\\GitHubDesktop\\Basic-Grade-Calculator\\Basic-Grade-Calculator\\basic-grade-calculator\\forms\\create_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C4F9C40B-886F-44B3-9FAA-682E660E7569}|Basic-Grade-Calculator\\Basic-Grade-Calculator.csproj|solutionrelative:basic-grade-calculator\\forms\\create_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4F9C40B-886F-44B3-9FAA-682E660E7569}|Basic-Grade-Calculator\\Basic-Grade-Calculator.csproj|c:\\githubdesktop\\basic-grade-calculator\\basic-grade-calculator\\basic-grade-calculator\\forms\\main_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4F9C40B-886F-44B3-9FAA-682E660E7569}|Basic-Grade-Calculator\\Basic-Grade-Calculator.csproj|C:\\GitHubDesktop\\Basic-Grade-Calculator\\Basic-Grade-Calculator\\basic-grade-calculator\\forms\\main_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4F9C40B-886F-44B3-9FAA-682E660E7569}|Basic-Grade-Calculator\\Basic-Grade-Calculator.csproj|solutionrelative:basic-grade-calculator\\forms\\main_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4F9C40B-886F-44B3-9FAA-682E660E7569}|Basic-Grade-Calculator\\Basic-Grade-Calculator.csproj|c:\\githubdesktop\\basic-grade-calculator\\basic-grade-calculator\\basic-grade-calculator\\forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4F9C40B-886F-44B3-9FAA-682E660E7569}|Basic-Grade-Calculator\\Basic-Grade-Calculator.csproj|C:\\GitHubDesktop\\Basic-Grade-Calculator\\Basic-Grade-Calculator\\basic-grade-calculator\\forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4F9C40B-886F-44B3-9FAA-682E660E7569}|Basic-Grade-Calculator\\Basic-Grade-Calculator.csproj|solutionrelative:basic-grade-calculator\\forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4F9C40B-886F-44B3-9FAA-682E660E7569}|Basic-Grade-Calculator\\Basic-Grade-Calculator.csproj|c:\\githubdesktop\\basic-grade-calculator\\basic-grade-calculator\\basic-grade-calculator\\forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C4F9C40B-886F-44B3-9FAA-682E660E7569}|Basic-Grade-Calculator\\Basic-Grade-Calculator.csproj|C:\\GitHubDesktop\\Basic-Grade-Calculator\\Basic-Grade-Calculator\\basic-grade-calculator\\forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C4F9C40B-886F-44B3-9FAA-682E660E7569}|Basic-Grade-Calculator\\Basic-Grade-Calculator.csproj|solutionrelative:basic-grade-calculator\\forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,8 +30,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a5174402-226b-48da-aa5c-91376ed45871}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,8 +49,7 @@
               "ToolTip": "C:\\GitHubDesktop\\Basic-Grade-Calculator\\Basic-Grade-Calculator\\Basic-Grade-Calculator\\Forms\\Create_Form.cs [Design]",
               "RelativeToolTip": "Basic-Grade-Calculator\\Forms\\Create_Form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T16:20:17.535Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-09T16:20:17.535Z"
             },
             {
               "$type": "Document",
@@ -54,8 +61,7 @@
               "RelativeToolTip": "Basic-Grade-Calculator\\Forms\\Main_Form.Designer.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T16:19:45.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T16:19:45.742Z"
             },
             {
               "$type": "Document",
@@ -67,8 +73,7 @@
               "RelativeToolTip": "Basic-Grade-Calculator\\Forms\\Main_Form.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T16:19:41.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T16:19:41.257Z"
             },
             {
               "$type": "Document",
@@ -84,14 +89,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a5174402-226b-48da-aa5c-91376ed45871}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Main_Form.cs [Design]",
@@ -100,8 +97,7 @@
               "ToolTip": "C:\\GitHubDesktop\\Basic-Grade-Calculator\\Basic-Grade-Calculator\\Basic-Grade-Calculator\\Forms\\Main_Form.cs [Design]",
               "RelativeToolTip": "Basic-Grade-Calculator\\Forms\\Main_Form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T15:58:17.23Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-09T15:58:17.23Z"
             }
           ]
         }
