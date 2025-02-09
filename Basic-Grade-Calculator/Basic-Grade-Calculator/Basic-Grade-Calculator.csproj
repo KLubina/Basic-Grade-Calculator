@@ -47,17 +47,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Forms\Edit_Form.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\Edit_Form.Designer.cs">
-      <DependentUpon>Edit_Form.cs</DependentUpon>
-    </Compile>
     <Compile Include="Forms\Create_Form.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\Create_Form.Designer.cs">
       <DependentUpon>Create_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Edit_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Edit_Form.Designer.cs">
+      <DependentUpon>Edit_Form.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Main_Form.cs">
       <SubType>Form</SubType>
@@ -67,11 +67,11 @@
     </Compile>
     <Compile Include="Classes\Program_Class.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Forms\Edit_Form.resx">
-      <DependentUpon>Edit_Form.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Create_Form.resx">
       <DependentUpon>Create_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Edit_Form.resx">
+      <DependentUpon>Edit_Form.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Main_Form.resx">
       <DependentUpon>Main_Form.cs</DependentUpon>

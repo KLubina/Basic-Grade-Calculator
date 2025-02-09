@@ -1,6 +1,6 @@
 ﻿namespace Basic_Grade_Calculator.Forms
   {
-  partial class Create_Form
+  partial class Edit_Form
     {
     /// <summary>
     /// Required designer variable.
@@ -28,46 +28,46 @@
     /// </summary>
     private void InitializeComponent()
       {
-      this.dataGridView1 = new System.Windows.Forms.DataGridView();
-      this.button1 = new System.Windows.Forms.Button();
-      ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+      this.buttonSave = new System.Windows.Forms.Button();
+      this.dataGridViewEdit = new System.Windows.Forms.DataGridView();
+      ((System.ComponentModel.ISupportInitialize)(this.dataGridViewEdit)).BeginInit();
       this.SuspendLayout();
       // 
-      // dataGridView1
+      // buttonSave
       // 
-      this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-      this.dataGridView1.Location = new System.Drawing.Point(21, 12);
-      this.dataGridView1.Name = "dataGridView1";
-      this.dataGridView1.RowHeadersWidth = 72;
-      this.dataGridView1.RowTemplate.Height = 31;
-      this.dataGridView1.Size = new System.Drawing.Size(580, 399);
-      this.dataGridView1.TabIndex = 0;
+      this.buttonSave.Location = new System.Drawing.Point(12, 574);
+      this.buttonSave.Name = "buttonSave";
+      this.buttonSave.Size = new System.Drawing.Size(617, 67);
+      this.buttonSave.TabIndex = 3;
+      this.buttonSave.Text = "Save grading template";
+      this.buttonSave.UseVisualStyleBackColor = true;
       // 
-      // button1
+      // dataGridViewEdit
       // 
-      this.button1.Location = new System.Drawing.Point(21, 418);
-      this.button1.Name = "button1";
-      this.button1.Size = new System.Drawing.Size(580, 67);
-      this.button1.TabIndex = 1;
-      this.button1.Text = "button1";
-      this.button1.UseVisualStyleBackColor = true;
+      this.dataGridViewEdit.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+      this.dataGridViewEdit.Location = new System.Drawing.Point(12, 12);
+      this.dataGridViewEdit.Name = "dataGridViewEdit";
+      this.dataGridViewEdit.RowHeadersWidth = 72;
+      this.dataGridViewEdit.RowTemplate.Height = 31;
+      this.dataGridViewEdit.Size = new System.Drawing.Size(617, 556);
+      this.dataGridViewEdit.TabIndex = 2;
       // 
-      // Create_Form
+      // Edit_Form
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(620, 497);
-      this.Controls.Add(this.button1);
-      this.Controls.Add(this.dataGridView1);
-      this.Name = "Create_Form";
-      this.Text = "Create_Form";
-      ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+      this.ClientSize = new System.Drawing.Size(648, 652);
+      this.Controls.Add(this.buttonSave);
+      this.Controls.Add(this.dataGridViewEdit);
+      this.Name = "Edit_Form";
+      this.Text = "Edit_Form";
+      ((System.ComponentModel.ISupportInitialize)(this.dataGridViewEdit)).EndInit();
       this.ResumeLayout(false);
 
       }
 
     #endregion
-    private System.Windows.Forms.DataGridView dataGridView1;
-    private System.Windows.Forms.Button button1;
+    private System.Windows.Forms.Button buttonSave;
+    private System.Windows.Forms.DataGridView dataGridViewEdit;
     }
   }

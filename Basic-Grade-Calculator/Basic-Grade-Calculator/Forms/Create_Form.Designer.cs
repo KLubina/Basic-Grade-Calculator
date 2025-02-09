@@ -28,46 +28,46 @@
     /// </summary>
     private void InitializeComponent()
       {
-      this.dataGridView1 = new System.Windows.Forms.DataGridView();
-      this.button1 = new System.Windows.Forms.Button();
-      ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+      this.dataGridViewCreateTemplate = new System.Windows.Forms.DataGridView();
+      this.buttonSave = new System.Windows.Forms.Button();
+      ((System.ComponentModel.ISupportInitialize)(this.dataGridViewCreateTemplate)).BeginInit();
       this.SuspendLayout();
       // 
-      // dataGridView1
+      // dataGridViewCreateTemplate
       // 
-      this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-      this.dataGridView1.Location = new System.Drawing.Point(21, 12);
-      this.dataGridView1.Name = "dataGridView1";
-      this.dataGridView1.RowHeadersWidth = 72;
-      this.dataGridView1.RowTemplate.Height = 31;
-      this.dataGridView1.Size = new System.Drawing.Size(580, 399);
-      this.dataGridView1.TabIndex = 0;
+      this.dataGridViewCreateTemplate.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+      this.dataGridViewCreateTemplate.Location = new System.Drawing.Point(12, 12);
+      this.dataGridViewCreateTemplate.Name = "dataGridViewCreateTemplate";
+      this.dataGridViewCreateTemplate.RowHeadersWidth = 72;
+      this.dataGridViewCreateTemplate.RowTemplate.Height = 31;
+      this.dataGridViewCreateTemplate.Size = new System.Drawing.Size(617, 556);
+      this.dataGridViewCreateTemplate.TabIndex = 0;
       // 
-      // button1
+      // buttonSave
       // 
-      this.button1.Location = new System.Drawing.Point(21, 418);
-      this.button1.Name = "button1";
-      this.button1.Size = new System.Drawing.Size(580, 67);
-      this.button1.TabIndex = 1;
-      this.button1.Text = "button1";
-      this.button1.UseVisualStyleBackColor = true;
+      this.buttonSave.Location = new System.Drawing.Point(12, 574);
+      this.buttonSave.Name = "buttonSave";
+      this.buttonSave.Size = new System.Drawing.Size(617, 67);
+      this.buttonSave.TabIndex = 1;
+      this.buttonSave.Text = "Save grading template";
+      this.buttonSave.UseVisualStyleBackColor = true;
       // 
       // Create_Form
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(620, 497);
-      this.Controls.Add(this.button1);
-      this.Controls.Add(this.dataGridView1);
+      this.ClientSize = new System.Drawing.Size(641, 653);
+      this.Controls.Add(this.buttonSave);
+      this.Controls.Add(this.dataGridViewCreateTemplate);
       this.Name = "Create_Form";
       this.Text = "Create_Form";
-      ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+      ((System.ComponentModel.ISupportInitialize)(this.dataGridViewCreateTemplate)).EndInit();
       this.ResumeLayout(false);
 
       }
 
     #endregion
-    private System.Windows.Forms.DataGridView dataGridView1;
-    private System.Windows.Forms.Button button1;
+    private System.Windows.Forms.DataGridView dataGridViewCreateTemplate;
+    private System.Windows.Forms.Button buttonSave;
     }
   }
