@@ -197,7 +197,7 @@
       this.Controls.Add(this.buttonDisplay1);
       this.Controls.Add(this.checkedListBox1);
       this.Name = "Main_Form";
-      this.Text = "Form1";
+      this.Text = "Grading Overview";
       ((System.ComponentModel.ISupportInitialize)(this.chart1)).EndInit();
       ((System.ComponentModel.ISupportInitialize)(this.chartBig)).EndInit();
       ((System.ComponentModel.ISupportInitialize)(this.chart2)).EndInit();

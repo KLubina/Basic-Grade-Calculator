@@ -60,7 +60,7 @@
       this.Controls.Add(this.buttonSave);
       this.Controls.Add(this.dataGridViewCreateTemplate);
       this.Name = "Create_Form";
-      this.Text = "Create_Form";
+      this.Text = "Create grading template";
       ((System.ComponentModel.ISupportInitialize)(this.dataGridViewCreateTemplate)).EndInit();
       this.ResumeLayout(false);
 

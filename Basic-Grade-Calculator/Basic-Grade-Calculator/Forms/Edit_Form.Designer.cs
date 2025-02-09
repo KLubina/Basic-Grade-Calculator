@@ -60,7 +60,7 @@
       this.Controls.Add(this.buttonSave);
       this.Controls.Add(this.dataGridViewEdit);
       this.Name = "Edit_Form";
-      this.Text = "Edit_Form";
+      this.Text = "Edit grading template";
       ((System.ComponentModel.ISupportInitialize)(this.dataGridViewEdit)).EndInit();
       this.ResumeLayout(false);
 
