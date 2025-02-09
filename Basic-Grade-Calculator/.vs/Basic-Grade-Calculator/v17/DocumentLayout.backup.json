@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHubDesktop\\Basic-Grade-Calculator\\Basic-Grade-Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F9C40B-886F-44B3-9FAA-682E660E7569}|Basic-Grade-Calculator\\Basic-Grade-Calculator.csproj|c:\\githubdesktop\\basic-grade-calculator\\basic-grade-calculator\\basic-grade-calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4F9C40B-886F-44B3-9FAA-682E660E7569}|Basic-Grade-Calculator\\Basic-Grade-Calculator.csproj|solutionrelative:basic-grade-calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a5174402-226b-48da-aa5c-91376ed45871}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\GitHubDesktop\\Basic-Grade-Calculator\\Basic-Grade-Calculator\\Basic-Grade-Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Basic-Grade-Calculator\\Form1.cs",
+              "ToolTip": "C:\\GitHubDesktop\\Basic-Grade-Calculator\\Basic-Grade-Calculator\\Basic-Grade-Calculator\\Form1.cs [Design]",
+              "RelativeToolTip": "Basic-Grade-Calculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:58:17.23Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

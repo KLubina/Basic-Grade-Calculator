@@ -1,0 +1,10 @@
+C:\GitHubDesktop\Basic-Grade-Calculator\Basic-Grade-Calculator\Basic-Grade-Calculator\bin\Debug\Basic-Grade-Calculator.exe.config
+C:\GitHubDesktop\Basic-Grade-Calculator\Basic-Grade-Calculator\Basic-Grade-Calculator\bin\Debug\Basic-Grade-Calculator.exe
+C:\GitHubDesktop\Basic-Grade-Calculator\Basic-Grade-Calculator\Basic-Grade-Calculator\bin\Debug\Basic-Grade-Calculator.pdb
+C:\GitHubDesktop\Basic-Grade-Calculator\Basic-Grade-Calculator\Basic-Grade-Calculator\obj\Debug\Basic-Grade-Calculator.csproj.AssemblyReference.cache
+C:\GitHubDesktop\Basic-Grade-Calculator\Basic-Grade-Calculator\Basic-Grade-Calculator\obj\Debug\Basic_Grade_Calculator.Form1.resources
+C:\GitHubDesktop\Basic-Grade-Calculator\Basic-Grade-Calculator\Basic-Grade-Calculator\obj\Debug\Basic_Grade_Calculator.Properties.Resources.resources
+C:\GitHubDesktop\Basic-Grade-Calculator\Basic-Grade-Calculator\Basic-Grade-Calculator\obj\Debug\Basic-Grade-Calculator.csproj.GenerateResource.cache
+C:\GitHubDesktop\Basic-Grade-Calculator\Basic-Grade-Calculator\Basic-Grade-Calculator\obj\Debug\Basic-Grade-Calculator.csproj.CoreCompileInputs.cache
+C:\GitHubDesktop\Basic-Grade-Calculator\Basic-Grade-Calculator\Basic-Grade-Calculator\obj\Debug\Basic-Grade-Calculator.exe
+C:\GitHubDesktop\Basic-Grade-Calculator\Basic-Grade-Calculator\Basic-Grade-Calculator\obj\Debug\Basic-Grade-Calculator.pdb
